@@ -46,12 +46,6 @@
    rails server -p 3001
    ```
 
-5. Access to the website in a browser with the following link to see the random greeting
-
-   ```sh
-   localhost:3000/greeting
-   ```
-
 ## Acknowledgements
 
 - Implement a connection between a Ruby on Rails back-end and React front-end.
